@@ -5,6 +5,10 @@ function myMessage() {
 function sonu() {
     echo "Hello world!";
   }
+  function vishal() {
+    echo "Hello world!";
+  }
   sonu();
+  vishal();
 myMessage();
 ?> 
