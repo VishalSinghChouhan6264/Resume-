@@ -7,5 +7,4 @@ function sonu() {
   }
   sonu();
 myMessage();
-vishal();
 ?> 
